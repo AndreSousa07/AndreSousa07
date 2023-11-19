@@ -1,12 +1,15 @@
-<h1>#Oi Eu sou André Gomes</h1>
+#🖐️ Oi eu sou André Gomes<br/>
+📘Atualmente cursando Análise E Desenvolvimento De Sistemas
 
-<h2>👨‍💻Atualmente Cursando Análise E Desenvolvimento de Sistemas Fev-2023/Jul-2025</h2>
-
-
-<div>
-  <img align="center" alt="Andre-GIT" display:inline-block; height="60px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-  <img align="center" alt="Andre-HTML" display:inline-block; height="40px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Andre-CSS" display:inline-block; height="40px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Andre-Java" display:inline-block; height="40px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Andre-CSS" display:inline-block; height="40px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](linkedin.com/in/andré-gomes-a725331a4)
+![AndreSousa07 GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreSousa07&show_icons=true&theme=radical)
+<h4>
+👨‍💻Tecnologias que eu utilizo em meus estudos no dia-a-dia
+</h4>
+<div style="display:inline_block"><br/>
+    <img align="center" alt="Java" width="40px" height="30px " src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img align="center" alt="MySql" width="40px" height="30px " src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img align="center" alt="Html" width="40px" height="30px " src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+     <img align="center" alt="Css" width="40px" height="30px " src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+     <img align="center" alt="JavaScript" width="40px" height="30px " src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
