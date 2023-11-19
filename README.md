@@ -1,10 +1,7 @@
-#🖐️ Oi eu sou André Gomes<br/>
-📘Atualmente cursando Análise E Desenvolvimento De Sistemas
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](linkedin.com/in/andré-gomes-a725331a4)
+# Oi eu sou André Gomes
 ![AndreSousa07 GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreSousa07&show_icons=true&theme=radical)
 <h4>
-👨‍💻Tecnologias que eu utilizo em meus estudos no dia-a-dia
+Tecnologias que eu utilizo em meus estudos no dia-a-dia
 </h4>
 <div style="display:inline_block"><br/>
     <img align="center" alt="Java" width="40px" height="30px " src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
