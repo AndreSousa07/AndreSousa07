@@ -1,4 +1,4 @@
-<h1>#Oi Eu sou André Sousa</h1>
+<h1>#Oi Eu sou André Gomes</h1>
 
 <h2>👨‍💻Atualmente Cursando Análise E Desenvolvimento de Sistemas Fev-2023/Jul-2025</h2>
 
